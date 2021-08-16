@@ -1,3 +1,4 @@
+![original](https://user-images.githubusercontent.com/5114162/129618126-b061f93c-43ad-41c4-8e58-29c584960013.png)
 ## Inspiration
 We, as game theory enthusiasts, decided to tackle the seemingly most innocent two player game of all: Tic Tac Toe. Played billions of times by casuals and enthusiasts all over the world, each game has 255,168 unique endings. This provides for a very complex, recursive algorithm that will find the best move given any position.
 
